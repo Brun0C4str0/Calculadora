@@ -7,8 +7,13 @@
 
 # Clone este repositório
 $ git clone <https://github.com/Brun0C4str0/Calculadora
+$ Acesse a pasta do projeto no seu computador
 
-# Acesse a pasta do projeto no seu computador
+# Descrição
+<p>Este projeto é ideal para iniciantes de programação front-end, esta calculadora
+é gerada por um código simples utilizando o básicp de HTML, CSS e JavaScript.
+Espero que você aprenda ainda mais sobre programação e utilize das suas próprias habilidades
+para criar a sua própria calculadora, uma que possa ser mais funcional e mais atrativa aos olhos. </p>
 
 # Referências
 https://www.youtube.com/watch?v=42TShjXR0m0
