@@ -20,4 +20,6 @@ https://www.youtube.com/watch?v=42TShjXR0m0
 https://github.com/brunoverc/Senac.Calculadora-web
 
 
+![Calculadora png](https://github.com/Brun0C4str0/Calculadora/assets/138077495/b6150bcb-e944-4726-9db5-2d4152af1da5)
+
 
